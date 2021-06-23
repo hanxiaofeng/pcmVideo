@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/annotationkkdemo" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/bindercodedemo" />
+            <option value="$PROJECT_DIR$/camera2helper" />
+            <option value="$PROJECT_DIR$/camerautilsdemo" />
+            <option value="$PROJECT_DIR$/daggeruse" />
+            <option value="$PROJECT_DIR$/databindingdemo" />
+            <option value="$PROJECT_DIR$/dragfast" />
+            <option value="$PROJECT_DIR$/eventdispatch" />
+            <option value="$PROJECT_DIR$/facedemo" />
+            <option value="$PROJECT_DIR$/filemd5utils" />
+            <option value="$PROJECT_DIR$/goomvpdemo" />
+            <option value="$PROJECT_DIR$/horirecyclerview" />
+            <option value="$PROJECT_DIR$/hprogressbutton" />
+            <option value="$PROJECT_DIR$/keshell" />
+            <option value="$PROJECT_DIR$/mvpdemo" />
+            <option value="$PROJECT_DIR$/pcmvideotest" />
+            <option value="$PROJECT_DIR$/playbasedemo" />
+            <option value="$PROJECT_DIR$/recyclerviewsnap" />
+            <option value="$PROJECT_DIR$/repluginhost" />
+            <option value="$PROJECT_DIR$/repluginone" />
+            <option value="$PROJECT_DIR$/roomsqlitedemo" />
+            <option value="$PROJECT_DIR$/rxjava2use" />
+            <option value="$PROJECT_DIR$/virtualapkhost" />
+            <option value="$PROJECT_DIR$/virtualplugin" />
+            <option value="$PROJECT_DIR$/wlmusicdemo" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
